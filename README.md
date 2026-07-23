@@ -6,15 +6,17 @@
 
 **AI • Machine Learning • 3D LiDAR • Computer Vision • Intelligent Sensing**
 
-I enjoy **doing research, building intelligent systems, teaching, and turning ideas into real-world solutions**.
+I enjoy **doing research, building intelligent systems, teaching, and turning technical ideas into real-world solutions**.
+
+Teaching is something I genuinely enjoy. I like taking complicated engineering and AI concepts and making them easier to understand, especially when I get to see the moment when everything finally clicks for a student.
 
 My work sits at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, 3D LiDAR sensing, and real-time data processing**. I enjoy taking ideas from an early research question all the way to a working system, experiment, publication, classroom demonstration — and sometimes even something that could become a product.
 
-I also have a strong interest in **entrepreneurship and technology innovation**, especially in transforming research into practical solutions with real-world impact.
+I also have a strong interest in **entrepreneurship, innovation, and business**, especially in exploring how research and engineering can evolve into useful products and scalable solutions.
 
-🤫 **There may also be something entrepreneurial I’m currently working on... hssshhhh, it’s a secret for now.**
+🤫 **Business fun fact:** sometimes I look at a research idea and think, “This could be a paper...” and then two minutes later, “Wait... could this also be a business?”
 
-😄 **Fun fact:** I enjoy explaining complicated engineering ideas almost as much as I enjoy debugging them — although debugging usually takes much longer.
+And as for what I may be working on now... **hssshhhh, it’s a secret for now.** 😄
 
 </div>
 
