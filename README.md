@@ -111,25 +111,25 @@ Learning paradigms:Supervised Learning • Self-Supervised Learning • Syntheti
 
 I. Missouri University of Science and Technology
 
-Research Assistant & Teaching Assistant: 2023–Present
+**Research Assistant & Teaching Assistant**: 2023–Present
 
 3D LiDAR, deep learning, human activity recognition, smart-city sensing, fall detection, point-cloud processing, visualization, evaluation, research writing
 
 II. KAUST
 
-Researcher Intern / Visiting Student : Jun–Aug 2025
+**Researcher Intern / Visiting Student**: Jun–Aug 2025
 
 3D LiDAR-based human monitoring and fall detection
 
 III. COSIM Laboratory — SUP'COM
 
-Researcher Intern — Graduation Project: Jan–May 2023
+**Researcher Intern — Graduation Project**: Jan–May 2023
 
 3D LiDAR data collection and object detection for smart cities
 
 IV. Huawei Technologies: 
 
-ICT Engineer Intern : Jun–Aug 2022
+**ICT Engineer Intern**: Jun–Aug 2022
 
 4G network optimization and telecommunications engineering
 
