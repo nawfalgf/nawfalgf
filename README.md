@@ -279,18 +279,6 @@ Artificial Intelligence + 3D Computer Vision + LiDAR Sensing
 + Deep Learning + Human-Centered Applications
 + Privacy + Real-World Innovation
 
-**📊 GitHub Activity**
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nawfalgf&show_icons=true&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawfalgf&layout=compact&hide_border=true" />
-
-</div>
-
 **🤝 Open to Collaboration**
 
 I am always interested in connecting with researchers, engineers, students, founders, and teams working on:
