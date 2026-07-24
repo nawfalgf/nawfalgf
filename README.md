@@ -9,7 +9,7 @@ AI • Machine Learning • 3D LiDAR • Computer Vision • Intelligent Sensing
 I research and build intelligent sensing systems, teach engineering and AI, and explore how technical ideas can become real-world products.
 
 <p>
-<a href=".repositories_README.md"><b>🔬 Explore My Research Repositories</b></a>
+<a href="./repositories_README.md"><b>🔬 Explore My Research Repositories</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:nawfal.guefrachi@mst.edu"><b>📫 Contact Me</b></a>
 </p>
