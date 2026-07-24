@@ -18,7 +18,7 @@ I research and build intelligent sensing systems, teach engineering and AI, and 
 
 </div>
 
-👨‍💻 About Me
+**👨‍💻 About Me**
 
 I am a PhD researcher in Computer Engineering at Missouri University of Science and Technology working at the intersection of:
 
@@ -30,7 +30,7 @@ Alongside research, I have served as both a Research Assistant and Teaching Assi
 
 I like research because there is always another question to answer.I like teaching because sometimes the best way to understand something is to explain it.
 
-🔬 Research & Repositories
+**🔬 Research & Repositories**
 
 👉 Explore My Research & Software Repositories
 
@@ -48,37 +48,39 @@ Predictive ADR for Mobile LoRaWAN
 
 The full implementations remain private while related research is ongoing, but access may be provided upon request.
 
-🎓 Education
+**🎓 Education**
 
-I. Missouri University of Science and Technology, USA
+**I. Missouri University of Science and Technology, USA**
 
-1. PhD in Computer Engineering: 2025–Present
+**1. PhD in Computer Engineering: 2025–Present**
 
 GPA 3.846/4.0; AI, 3D LiDAR, deep learning, computer vision, intelligent sensing, human activity recognition
 
-2. MS in Computer Engineering — Thesis: 2023–2024
+**Missouri University of Science and Technology, USA**
+
+**2. MS in Computer Engineering — Thesis: 2023–2024**
 
 GPA 3.875/4.0; 3D LiDAR, pedestrian monitoring, deep learning, intelligent urban systems
 
-II. SUP'COM, Tunisia
+**II. SUP'COM, Tunisia**
 
-ICT Engineer — Bachelor: 2020–2023
+**ICT Engineer — Bachelor: 2020–2023**
 
 With Honors; telecommunications, networking, embedded systems, ML, IoT
 
-III. Preparatory Institute for Engineering Studies of Monastir, Tunisia
+**III. Preparatory Institute for Engineering Studies of Monastir, Tunisia**
 
-Physics & Chemistry Preparatory Program — Bachelor: 2018–2020
+**Physics & Chemistry Preparatory Program — Bachelor: 2018–2020**
 
 National Engineering School Entrance Exam: 40 / 900
 
-🚀 Research Focus
+**🚀 Research Focus**
 
 My work centers on AI, sensing, and real-world perception, especially:
 
 3D LiDAR • Deep Learning • 3D Perception • Human Activity Recognition • Pedestrian Monitoring • Fall Detection • Healthcare Sensing • Smart Cities • Synthetic-to-Real Learning • Self-Supervised Learning • Privacy-Preserving AI
 
-Current Research — Privacy-Preserving Fall Detection
+**Current Research — Privacy-Preserving Fall Detection**
 
 I investigate fall detection and human activity monitoring from real-world 3D LiDAR point clouds. LiDAR captures geometry without conventional RGB imagery, making it attractive for privacy-sensitive environments.
 
@@ -87,7 +89,7 @@ I investigate fall detection and human activity monitoring from real-world 3D Li
 
 I am also studying self-supervised representation learning to improve learning from unlabeled real-world LiDAR data.
 
-Elevated LiDAR & Human Activity Recognition
+**Elevated LiDAR & Human Activity Recognition**
 
 A major part of my research focuses on elevated LiDAR for pedestrian monitoring:
 
@@ -97,7 +99,7 @@ Elevated LiDAR → 3D Scene → Pedestrian Detection
 
 This work includes synthetic LiDAR generation, real-world data collection, 3D detection, pedestrian extraction, point-cloud classification, robustness analysis, runtime evaluation, synthetic-to-real generalization, and privacy-preserving monitoring.
 
-🧠 Deep Learning & 3D AI
+**🧠 Deep Learning & 3D AI**
 
 Point-cloud / activity models:PointNet • LSTM • CNNs • Transformers • Point Cloud Transformers • Hybrid Models
 
@@ -105,40 +107,40 @@ Point-cloud / activity models:PointNet • LSTM • CNNs • Transformers • Po
 
 Learning paradigms:Supervised Learning • Self-Supervised Learning • Synthetic-to-Real Learning • Data Augmentation
 
-🧪 Research & Industry Experience
+**🧪 Research & Industry Experience**
 
-I. Missouri University of Science and Technology
+**I. Missouri University of Science and Technology**
 
-**Research Assistant & Teaching Assistant**: 2023–Present
+**Research Assistant & Teaching Assistant: 2023–Present**
 
 3D LiDAR, deep learning, human activity recognition, smart-city sensing, fall detection, point-cloud processing, visualization, evaluation, research writing
 
-II. KAUST
+**II. KAUST**
 
-**Researcher Intern / Visiting Student**: Jun–Aug 2025
+**Researcher Intern / Visiting Student : Jun–Aug 2025**
 
 3D LiDAR-based human monitoring and fall detection
 
-III. COSIM Laboratory — SUP'COM
+**III. COSIM Laboratory — SUP'COM**
 
-**Researcher Intern — Graduation Project**: Jan–May 2023
+**Researcher Intern — Graduation Project: Jan–May 2023**
 
 3D LiDAR data collection and object detection for smart cities
 
-IV. Huawei Technologies: 
+**IV. Huawei Technologies:**
 
-**ICT Engineer Intern**: Jun–Aug 2022
+**ICT Engineer Intern : Jun–Aug 2022**
 
 4G network optimization and telecommunications engineering
 
-📚 Selected Publications
+**📚 Selected Publications**
 
-I. Journal Articles
+**I. Journal Articles**
 1. Pedestrian Activity Classification with Hybrid Deep Learning Models Using Elevated LiDAR 3D Point CloudsIEEE Sensors Journal — AcceptedNawfal Guefrachi, Hakim Ghazzai, Ahmad Alsharoa, Gianluca Setti3D LiDAR • Human Activity Recognition • Point Clouds • Deep Learning • Synthetic-to-Real
 
 2. A Comprehensive Planning Framework for Connected Elevated LiDAR SensorsIEEE Journal of Selected Areas in Sensors — AcceptedNawfal Guefrachi, Michael C. Lucic, Mohammad Yassen, Hakim Ghazzai, Ahmad AlsharoaConnected LiDAR • Sensor Planning • Intelligent Infrastructure • Smart Cities
 
-II. Conference Papers
+**II. Conference Papers**
 
 1. LiDAR-Based Framework for Detecting Suspicious Human Activities — ISCAS 2026, AcceptedAhd Aljumah, Charalampos Antoniadis, Hakim Ghazzai, Nawfal Guefrachi, Ahmad Alsharoa, Gianluca Setti
 
@@ -150,7 +152,7 @@ II. Conference Papers
 
 5. Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection — IEEE EMBC 2024, OrlandoNawfal Guefrachi, Jian Shi, Hakim Ghazzai, Ahmad Alsharoa
 
-🏆 Honors & Awards
+**🏆 Honors & Awards**
 
 🥇 CEC Dean's Graduate Educator Award, Missouri S&T — excellence in teaching and student support, 2026
 
@@ -162,7 +164,7 @@ II. Conference Papers
 
 🥉 3rd Prize — SUP'COM Annual Entrepreneurial Challenge, PWS; 10 finalist teams from 35, 2022
 
-💡 Selected Projects
+**💡 Selected Projects**
 
 📡 3D LiDAR-Based Fall Detection — fall/non-fall classification using real-world point clouds and privacy-aware sensing.
 
@@ -180,7 +182,7 @@ II. Conference Papers
 
 🌱 PWS — IoT-based agricultural insect-expulsion system.
 
-👨‍🏫 Teaching & Mentoring
+**👨‍🏫 Teaching & Mentoring**
 
 I enjoy making difficult engineering and AI concepts easier to understand. My teaching experience includes:
 
@@ -194,7 +196,7 @@ and:
 
 “Ohhh... that's actually not that bad.”
 
-🚀 Entrepreneurship & Innovation
+**🚀 Entrepreneurship & Innovation**
 
 I am interested in turning research and engineering into practical products and scalable solutions, especially in healthcare technology, safety, IoT, smart sensing, agriculture, and research commercialization.
 
@@ -208,7 +210,7 @@ I am interested in turning research and engineering into practical products and 
 
 🤫 Sometimes I look at a research idea and think, “This could be a paper...” and then two minutes later, “Wait... could this also be a business?”
 
-🛠️ Technical Toolbox
+**🛠️ Technical Toolbox**
 
 Programming & Scientific ComputingPython • C • C++ • MATLAB • LaTeX
 
@@ -224,14 +226,14 @@ Networks & Communications5G • LTE • 4G • Wi-Fi • Bluetooth • LoRaWAN �
 
 Operating SystemsLinux • Windows
 
-🌐 Languages
+**🌐 Languages**
 
 • 🇹🇳 Arabic — Native
 • 🇺🇸 English — Fluent 
 • 🇫🇷 French — Fluent 
 • 🇪🇸 Spanish — Intermediate
 
-🤝 Leadership & Professional Activities
+**🤝 Leadership & Professional Activities**
 
 IEEE Engineering in Medicine and Biology Society — Member
 
@@ -243,31 +245,31 @@ TEAM Club — Sponsoring Committee
 
 Research collaboration, technical teamwork, mentoring, and student coaching
 
-🎤 Presentations & Posters
+**🎤 Presentations & Posters**
 
-I. Conference presentations
+**I. Conference presentations**
 
 1. IEEE ICT 2024 — Amman: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis
 
 2. IEEE EMBC 2024 — Orlando: 3D LiDAR for Urban Safety, Public Health, and Abnormal Activity Detection
 
-II. Posters
+**II. Posters**
 
 1. NextGen PATHWAYS Symposium 2026 — LiDAR-Based Privacy-Preserving Fall Detection and Activity Monitoring for Elderly Safety
 
 2. NextGen PATHWAYS Symposium 2024 — LIVECARE: Advancing Patient Monitoring with LiDAR-Based Real-Time Health Surveillance
 
-🧩 How I Like to Work
+**🧩 How I Like to Work**
 
 Interesting Problem → Research Question → Data
 → Build → Break Something 😅 → Understand Why
 → Improve → Evaluate → Publish • Present • Teach
 
-🌱 Currently Exploring
+**🌱 Currently Exploring**
 
 Self-Supervised 3D Learning • Privacy-Preserving Human Sensing • Real-Time Fall Detection • Synthetic-to-Real Transfer • Foundation Models for 3D Perception • Multimodal Sensing • Healthcare Monitoring • Robust Point-Cloud Learning • AI-Enabled Infrastructure • Technology Transfer
 
-🎯 Research Vision
+**🎯 Research Vision**
 
 Sense the world, understand human activity, make useful decisions, and preserve privacy.
 
@@ -277,7 +279,7 @@ Artificial Intelligence + 3D Computer Vision + LiDAR Sensing
 + Deep Learning + Human-Centered Applications
 + Privacy + Real-World Innovation
 
-📊 GitHub Activity
+**📊 GitHub Activity**
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 
@@ -289,13 +291,13 @@ Artificial Intelligence + 3D Computer Vision + LiDAR Sensing
 
 </div>
 
-🤝 Open to Collaboration
+**🤝 Open to Collaboration**
 
 I am always interested in connecting with researchers, engineers, students, founders, and teams working on:
 
 AI • Machine Learning • LiDAR • Computer Vision • 3D Perception • Human Activity Recognition • Healthcare AI • Smart Cities • Intelligent Sensing • Research Software • Technology Innovation
 
-📫 Connect With Me
+**📫 Connect With Me**
 
 <p align="center">
 
