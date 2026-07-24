@@ -56,8 +56,6 @@ I. Missouri University of Science and Technology, USA
 
 GPA 3.846/4.0; AI, 3D LiDAR, deep learning, computer vision, intelligent sensing, human activity recognition
 
-Missouri University of Science and Technology, USA
-
 2. MS in Computer Engineering — Thesis: 2023–2024
 
 GPA 3.875/4.0; 3D LiDAR, pedestrian monitoring, deep learning, intelligent urban systems
