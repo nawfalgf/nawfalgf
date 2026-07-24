@@ -285,9 +285,9 @@ Artificial Intelligence + 3D Computer Vision + LiDAR Sensing
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nawfalgf&show_icons=true&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawfalgf&layout=compact&hide_border=true" />
 
 </div>
 
