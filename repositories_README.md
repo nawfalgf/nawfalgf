@@ -11,7 +11,7 @@ The repositories contain ongoing research, experimental implementations, model a
 **Repository access may be granted upon request** for academic research, collaboration, reproducibility, technical review, or other appropriate uses.
 
 <p>
-<a href="../README.md"><b>🏠 Back to Profile</b></a>
+<a href="README.md"><b>🏠 Back to Profile</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:nawfal.guefrachi@mst.edu?subject=GitHub%20Repository%20Access%20Request"><b>📩 Request Access</b></a>
 </p>
