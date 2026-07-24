@@ -50,43 +50,27 @@ The full implementations remain private while related research is ongoing, but a
 
 🎓 Education
 
-Institution
+I. Missouri University of Science and Technology, USA
 
-Degree
-
-Years
-
-Highlights
-
-Missouri University of Science and Technology, USA
-
-PhD in Computer Engineering
-
-2025–Present
+1. PhD in Computer Engineering: 2025–Present
 
 GPA 3.846/4.0; AI, 3D LiDAR, deep learning, computer vision, intelligent sensing, human activity recognition
 
 Missouri University of Science and Technology, USA
 
-MS in Computer Engineering — Thesis
-
-2023–2024
+2. MS in Computer Engineering — Thesis: 2023–2024
 
 GPA 3.875/4.0; 3D LiDAR, pedestrian monitoring, deep learning, intelligent urban systems
 
-SUP'COM, Tunisia
+II. SUP'COM, Tunisia
 
-ICT Engineer
-
-2020–2023
+ICT Engineer — Bachelor: 2020–2023
 
 With Honors; telecommunications, networking, embedded systems, ML, IoT
 
-Preparatory Institute for Engineering Studies of Monastir, Tunisia
+III. Preparatory Institute for Engineering Studies of Monastir, Tunisia
 
-Physics & Chemistry Preparatory Program
-
-2018–2020
+Physics & Chemistry Preparatory Program — Bachelor: 2018–2020
 
 National Engineering School Entrance Exam: 40 / 900
 
@@ -125,91 +109,60 @@ Learning paradigms:Supervised Learning • Self-Supervised Learning • Syntheti
 
 🧪 Research & Industry Experience
 
-Organization
+I. Missouri University of Science and Technology
 
-Role
-
-Period
-
-Focus
-
-Missouri University of Science and Technology
-
-Research Assistant & Teaching Assistant
-
-2023–Present
+Research Assistant & Teaching Assistant: 2023–Present
 
 3D LiDAR, deep learning, human activity recognition, smart-city sensing, fall detection, point-cloud processing, visualization, evaluation, research writing
 
-KAUST
+II. KAUST
 
-Researcher Intern / Visiting Student
-
-Jun–Aug 2025
+Researcher Intern / Visiting Student : Jun–Aug 2025
 
 3D LiDAR-based human monitoring and fall detection
 
-COSIM Laboratory — SUP'COM
+III. COSIM Laboratory — SUP'COM
 
-Researcher Intern — Graduation Project
-
-Jan–May 2023
+Researcher Intern — Graduation Project: Jan–May 2023
 
 3D LiDAR data collection and object detection for smart cities
 
-Huawei Technologies
+IV. Huawei Technologies: 
 
-ICT Engineer Intern
-
-Jun–Aug 2022
+ICT Engineer Intern : Jun–Aug 2022
 
 4G network optimization and telecommunications engineering
 
 📚 Selected Publications
 
-Journal Articles
+I. Journal Articles
+1. Pedestrian Activity Classification with Hybrid Deep Learning Models Using Elevated LiDAR 3D Point CloudsIEEE Sensors Journal — AcceptedNawfal Guefrachi, Hakim Ghazzai, Ahmad Alsharoa, Gianluca Setti3D LiDAR • Human Activity Recognition • Point Clouds • Deep Learning • Synthetic-to-Real
 
-Pedestrian Activity Classification with Hybrid Deep Learning Models Using Elevated LiDAR 3D Point CloudsIEEE Sensors Journal — AcceptedNawfal Guefrachi, Hakim Ghazzai, Ahmad Alsharoa, Gianluca Setti3D LiDAR • Human Activity Recognition • Point Clouds • Deep Learning • Synthetic-to-Real
+2. A Comprehensive Planning Framework for Connected Elevated LiDAR SensorsIEEE Journal of Selected Areas in Sensors — AcceptedNawfal Guefrachi, Michael C. Lucic, Mohammad Yassen, Hakim Ghazzai, Ahmad AlsharoaConnected LiDAR • Sensor Planning • Intelligent Infrastructure • Smart Cities
 
-A Comprehensive Planning Framework for Connected Elevated LiDAR SensorsIEEE Journal of Selected Areas in Sensors — AcceptedNawfal Guefrachi, Michael C. Lucic, Mohammad Yassen, Hakim Ghazzai, Ahmad AlsharoaConnected LiDAR • Sensor Planning • Intelligent Infrastructure • Smart Cities
+II. Conference Papers
 
-Conference Papers
+1. LiDAR-Based Framework for Detecting Suspicious Human Activities — ISCAS 2026, AcceptedAhd Aljumah, Charalampos Antoniadis, Hakim Ghazzai, Nawfal Guefrachi, Ahmad Alsharoa, Gianluca Setti
 
-LiDAR-Based Framework for Detecting Suspicious Human Activities — ISCAS 2026, AcceptedAhd Aljumah, Charalampos Antoniadis, Hakim Ghazzai, Nawfal Guefrachi, Ahmad Alsharoa, Gianluca Setti
+2. Annotated 3D Point Cloud Dataset for Traffic Management in Simulated Urban Intersections — ISCAS 2025, LondonElham Binshaflout, Chaima Zaghouani, Nawfal Guefrachi, Charalampos Antoniadis, Hakim Ghazzai, Ahmad Alsharoa, Gianluca Setti
 
-Annotated 3D Point Cloud Dataset for Traffic Management in Simulated Urban Intersections — ISCAS 2025, LondonElham Binshaflout, Chaima Zaghouani, Nawfal Guefrachi, Charalampos Antoniadis, Hakim Ghazzai, Ahmad Alsharoa, Gianluca Setti
+3. AI-Driven Traffic Scene Understanding Using Static LiDAR Sensors — AICAS 2025, BordeauxE. Binshaflout, C. Zaghouani, N. Guefrachi, C. Antoniadis, H. Ghazzai, A. Alsharoa, S. Najeh, G. Setti
 
-AI-Driven Traffic Scene Understanding Using Static LiDAR Sensors — AICAS 2025, BordeauxE. Binshaflout, C. Zaghouani, N. Guefrachi, C. Antoniadis, H. Ghazzai, A. Alsharoa, S. Najeh, G. Setti
+4. Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis — IEEE ICT 2024, AmmanNawfal Guefrachi, Hakim Ghazzai, Ahmad Alsharoa
 
-Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis — IEEE ICT 2024, AmmanNawfal Guefrachi, Hakim Ghazzai, Ahmad Alsharoa
-
-Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection — IEEE EMBC 2024, OrlandoNawfal Guefrachi, Jian Shi, Hakim Ghazzai, Ahmad Alsharoa
+5. Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection — IEEE EMBC 2024, OrlandoNawfal Guefrachi, Jian Shi, Hakim Ghazzai, Ahmad Alsharoa
 
 🏆 Honors & Awards
 
-Year
+🥇 CEC Dean's Graduate Educator Award, Missouri S&T — excellence in teaching and student support, 2026
 
-Recognition
+⭐ Exemplary Reviewer, IEEE Wireless Communications and Localization Society, 2024
 
-2026
+🥇 1st Place — PickHacks Hackathon, SAFE-NAV; 36 finalists, ~100 participants, 2024
 
-🥇 CEC Dean's Graduate Educator Award, Missouri S&T — excellence in teaching and student support
+🎓 IEEE EMBC NextGen Scholar Award, 2022
 
-2025
-
-⭐ Exemplary Reviewer, IEEE Wireless Communications and Localization Society
-
-2024
-
-🥇 1st Place — PickHacks Hackathon, SAFE-NAV; 36 finalists, ~100 participants
-
-2024
-
-🎓 IEEE EMBC NextGen Scholar Award
-
-2022
-
-🥉 3rd Prize — SUP'COM Annual Entrepreneurial Challenge, PWS; 10 finalist teams from 35
+🥉 3rd Prize — SUP'COM Annual Entrepreneurial Challenge, PWS; 10 finalist teams from 35, 2022
 
 💡 Selected Projects
 
@@ -275,7 +228,10 @@ Operating SystemsLinux • Windows
 
 🌐 Languages
 
-🇹🇳 Arabic — Native • 🇺🇸 English — Fluent • 🇫🇷 French — Fluent • 🇪🇸 Spanish — Intermediate
+• 🇹🇳 Arabic — Native
+• 🇺🇸 English — Fluent 
+• 🇫🇷 French — Fluent 
+• 🇪🇸 Spanish — Intermediate
 
 🤝 Leadership & Professional Activities
 
@@ -291,17 +247,17 @@ Research collaboration, technical teamwork, mentoring, and student coaching
 
 🎤 Presentations & Posters
 
-Conference presentations
+I. Conference presentations
 
-IEEE ICT 2024 — Amman: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis
+1. IEEE ICT 2024 — Amman: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis
 
-IEEE EMBC 2024 — Orlando: 3D LiDAR for Urban Safety, Public Health, and Abnormal Activity Detection
+2. IEEE EMBC 2024 — Orlando: 3D LiDAR for Urban Safety, Public Health, and Abnormal Activity Detection
 
-Posters
+II. Posters
 
-NextGen PATHWAYS Symposium 2026 — LiDAR-Based Privacy-Preserving Fall Detection and Activity Monitoring for Elderly Safety
+1. NextGen PATHWAYS Symposium 2026 — LiDAR-Based Privacy-Preserving Fall Detection and Activity Monitoring for Elderly Safety
 
-NextGen PATHWAYS Symposium 2024 — LIVECARE: Advancing Patient Monitoring with LiDAR-Based Real-Time Health Surveillance
+2. NextGen PATHWAYS Symposium 2024 — LIVECARE: Advancing Patient Monitoring with LiDAR-Based Real-Time Health Surveillance
 
 🧩 How I Like to Work
 
