@@ -305,11 +305,11 @@ AI • Machine Learning • LiDAR • Computer Vision • 3D Perception • Huma
 <img src="https://img.shields.io/badge/Email-nawfal.guefrachi%40mst.edu-D14836?logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nawfal-guefrachi/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
+<a href="https://scholar.google.com/citations?user=qNGBEkMAAAAJ&hl=fr&inst=15611845720231691803">
 <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar&logoColor=white" />
 </a>
 
